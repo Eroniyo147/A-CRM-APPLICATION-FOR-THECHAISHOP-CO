@@ -1,1 +1,2 @@
 # A-CRM-APPLICATION-FOR-THECHAISHOP-CO
+A CRM Application for TheChaiShop&Co is designed to manage customer details, track orders, and handle business operations efficiently. It helps in maintaining records of customers, products, and transactions, along with validation features for secure data entry. The system improves workflow by automating processes and providing better customer relationship management.
